@@ -1,0 +1,30 @@
+.wrapper {
+    background-image: url(../2.3/image/wp2589204.jpeg);
+    height: 500px;
+    margin: 20px;
+    
+}
+
+
+h2 {
+    text-align: center;
+    color:#339b9a;
+}
+#content1  {
+    background-color: #339b9a;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    margin: 10px 30px 40px 40px;
+    
+
+    /* background-color:violet; */
+ }
+ .content2  {
+     color:#339b9a;
+     margin: 10px 30px 40px 40px;
+ }
+ p {
+     text-align: justify;
+     
+ }
